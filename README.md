@@ -1,1 +1,3 @@
-# bitdegree_sprint-11_assignement2.7
+# BitDegree - Web Development Learning Path - Sprint 11 (JavaScript)
+
+Assignment 2.7
